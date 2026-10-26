@@ -1,6 +1,6 @@
 # Jie Zhou — Academic Homepage
 
-Personal academic website: https://niqz0301.github.io/
+Personal academic website: https://jiezhou-radar.github.io/
 
 This website contains a research overview, publications, education, awards, academic service, and a downloadable CV.
 
