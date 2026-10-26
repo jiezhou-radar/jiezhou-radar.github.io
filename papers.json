@@ -1,1 +1,137 @@
-[{"n": 1, "text": "Jie Zhou, Junhao Xie, and Jiaqi Chen. Direct estimation of large dimensional precision matrix. IEEE Transactions on Signal Processing, vol. 74, pp. 183–199, 2026.", "year": "2026", "first": true}, {"n": 2, "text": "Jie Zhou, Junhao Xie. On the limiting distribution of the likelihood ratio statistic in expected likelihood AMF detector under large-dimensional regime. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 5, pp. 15130–15137, 2025.", "year": "2025", "first": true}, {"n": 3, "text": "Jie Zhou, Junhao Xie. Performance analysis of linearly combined order statistics CFAR processors in heterogeneous background. IEEE Transactions on Aerospace and Electronic Systems, vol. 60, no. 2, pp. 2428–2437, 2024.", "year": "2024", "first": true}, {"n": 4, "text": "Jie Zhou, Junhao Xie. Robust CFAR detector based on KLQ estimator for multiple-target scenario. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1–16, 2023.", "year": "2023", "first": true}, {"n": 5, "text": "Jie Zhou, Junhao Xie, et al. Robust sliding window CFAR detection based on quantile truncated statistics. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–23, 2022.", "year": "2022", "first": true}, {"n": 6, "text": "Jie Zhou, Junhao Xie. High-dimensional asymptotic analysis of adaptive radar detectors under Gaussian and compound-Gaussian clutter. Signal Processing, vol. 249, Paper No. 110771, 2026.", "year": "2026", "first": true}, {"n": 7, "text": "Jie Zhou, Junhao Xie. An improved quantile estimator with its application in CFAR detection. IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1–5, 2023.", "year": "2023", "first": true}, {"n": 8, "text": "Jie Zhou, Junhao Xie, and Jiaqi Chen. Asymptotic performance of low rank adaptive normalized matched filter test under large dimensional regime. 2025 IEEE International Radar Conference, Paper No. 1571099367, May 5–9, 2025, Atlanta, Georgia, USA. Student Paper Award Finalist.", "year": "2025", "first": true}, {"n": 9, "text": "Jie Zhou, Junhao Xie. Robust CFAR diagonally loaded AMF for mismatched signals. Accepted by 2026 CIE International Conference on Radar, 2026.", "year": "2026", "first": true}, {"n": 10, "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. Compound Gaussian radar clutter model with positive tempered alpha-stable texture. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 6, pp. 17364–17376, 2025.", "year": "2025", "first": false}, {"n": 11, "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. A flexible-tailed model for radar sea clutter amplitudes based on the smoothly truncated Lévy flight. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 4, pp. 10258–10272, 2025.", "year": "2025", "first": false}, {"n": 12, "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. A data-driven optimization method for simulating arbitrarily distributed and spatial-temporal correlated radar sea clutter. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1–15, 2023.", "year": "2023", "first": false}, {"n": 13, "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. Compound-Gaussian spatial-temporal correlated complex clutter simulation based on a two-step data-driven method. IEEE Transactions on Aerospace and Electronic Systems, vol. 59, no. 6, pp. 9512–9526, 2023.", "year": "2023", "first": false}, {"n": 14, "text": "Xingxing Liao, Jie Zhou, and Junhao Xie. Generation of random sea clutter amplitude sequence with quantitative control on distribution tail. Electronics Letters, vol. 59, no. 20, pp. 1–3, 2023.", "year": "2023", "first": false}, {"n": 15, "text": "Baiqiang Zhang, Jie Zhou, Junhao Xie, et al. Weighted likelihood CFAR detection for Weibull background. Digital Signal Processing, vol. 115, Paper No. 103079, 2021.", "year": "2021", "first": false}, {"n": 16, "text": "Baiqiang Zhang, Junhao Xie, and Jie Zhou. Slow-time randomly missing data reconstruction for skywave over-the-horizon radar. 2021 CIE International Conference on Radar, pp. 3255–3260, 2021.", "year": "2021", "first": false}, {"n": 17, "text": "C. A. Schone et al. (including Jie Zhou), 2025 IEEE International Radar Conference Student Paper Competition. IEEE Aerospace and Electronic Systems Magazine, vol. 41, no. 1, pp. 56–68, 2026.", "year": "2026", "first": false}]
+[
+  {
+    "n": 1,
+    "text": "Jie Zhou, Junhao Xie, and Jiaqi Chen. Direct Estimation of Eigenvalues of Large Dimensional Precision Matrix. IEEE Transactions on Signal Processing, vol. 74, pp. 183–199, 2026.",
+    "year": "2026",
+    "first": true,
+    "doi": "10.1109/tsp.2025.3647215",
+    "url": "https://doi.org/10.1109/tsp.2025.3647215"
+  },
+  {
+    "n": 2,
+    "text": "Jie Zhou, Junhao Xie. On the limiting distribution of the likelihood ratio statistic in expected likelihood AMF detector under large-dimensional regime. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 5, pp. 15130–15137, 2025.",
+    "year": "2025",
+    "first": true,
+    "doi": "10.1109/taes.2025.3582546",
+    "url": "https://doi.org/10.1109/taes.2025.3582546"
+  },
+  {
+    "n": 3,
+    "text": "Jie Zhou, Junhao Xie. Performance analysis of linearly combined order statistics CFAR processors in heterogeneous background. IEEE Transactions on Aerospace and Electronic Systems, vol. 60, no. 2, pp. 2428–2437, 2024.",
+    "year": "2024",
+    "first": true,
+    "doi": "10.1109/taes.2023.3339405",
+    "url": "https://doi.org/10.1109/taes.2023.3339405"
+  },
+  {
+    "n": 4,
+    "text": "Jie Zhou, Junhao Xie. Robust CFAR detector based on KLQ estimator for multiple-target scenario. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1–16, 2023.",
+    "year": "2023",
+    "first": true,
+    "doi": "10.1109/tgrs.2023.3275163",
+    "url": "https://doi.org/10.1109/tgrs.2023.3275163"
+  },
+  {
+    "n": 5,
+    "text": "Jie Zhou, Junhao Xie, et al. Robust sliding window CFAR detection based on quantile truncated statistics. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–23, 2022.",
+    "year": "2022",
+    "first": true,
+    "doi": "10.1109/tgrs.2022.3205737",
+    "url": "https://doi.org/10.1109/tgrs.2022.3205737"
+  },
+  {
+    "n": 6,
+    "text": "Jie Zhou, Junhao Xie. High-dimensional asymptotic analysis of adaptive radar detectors under Gaussian and compound-Gaussian clutter. Signal Processing, vol. 249, Paper No. 110771, 2026.",
+    "year": "2026",
+    "first": true,
+    "doi": "10.1016/j.sigpro.2026.110771",
+    "url": "https://doi.org/10.1016/j.sigpro.2026.110771"
+  },
+  {
+    "n": 7,
+    "text": "Jie Zhou, Junhao Xie. An improved quantile estimator with its application in CFAR detection. IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1–5, 2023.",
+    "year": "2023",
+    "first": true,
+    "doi": "10.1109/lgrs.2023.3309986",
+    "url": "https://doi.org/10.1109/lgrs.2023.3309986"
+  },
+  {
+    "n": 8,
+    "text": "Jie Zhou, Junhao Xie, and Jiaqi Chen. Asymptotic performance of low rank adaptive normalized matched filter test under large dimensional regime. 2025 IEEE International Radar Conference, Paper No. 1571099367, May 5–9, 2025, Atlanta, Georgia, USA. Student Paper Award Finalist.",
+    "year": "2025",
+    "first": true,
+    "doi": "10.1109/radar52380.2025.11031519",
+    "url": "https://doi.org/10.1109/radar52380.2025.11031519"
+  },
+  {
+    "n": 9,
+    "text": "Jie Zhou, Junhao Xie. Robust CFAR diagonally loaded AMF for mismatched signals. Accepted by 2026 CIE International Conference on Radar, 2026.",
+    "year": "2026",
+    "first": true,
+    "link_status": "forthcoming"
+  },
+  {
+    "n": 10,
+    "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. Compound Gaussian radar clutter model with positive tempered alpha-stable texture. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 6, pp. 17364–17376, 2025.",
+    "year": "2025",
+    "first": false,
+    "doi": "10.1109/taes.2025.3602941",
+    "url": "https://doi.org/10.1109/taes.2025.3602941"
+  },
+  {
+    "n": 11,
+    "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. A flexible-tailed model for radar sea clutter amplitudes based on the smoothly truncated Lévy flight. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 4, pp. 10258–10272, 2025.",
+    "year": "2025",
+    "first": false,
+    "doi": "10.1109/taes.2025.3559043",
+    "url": "https://doi.org/10.1109/taes.2025.3559043"
+  },
+  {
+    "n": 12,
+    "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. A data-driven optimization method for simulating arbitrarily distributed and spatial-temporal correlated radar sea clutter. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1–15, 2023.",
+    "year": "2023",
+    "first": false,
+    "doi": "10.1109/tgrs.2023.3327739",
+    "url": "https://doi.org/10.1109/tgrs.2023.3327739"
+  },
+  {
+    "n": 13,
+    "text": "Xingxing Liao, Junhao Xie, and Jie Zhou. Compound-Gaussian spatial-temporal correlated complex clutter simulation based on a two-step data-driven method. IEEE Transactions on Aerospace and Electronic Systems, vol. 59, no. 6, pp. 9512–9526, 2023.",
+    "year": "2023",
+    "first": false,
+    "doi": "10.1109/taes.2023.3320636",
+    "url": "https://doi.org/10.1109/taes.2023.3320636"
+  },
+  {
+    "n": 14,
+    "text": "Xingxing Liao, Jie Zhou, and Junhao Xie. Generation of random sea clutter amplitude sequence with quantitative control on distribution tail. Electronics Letters, vol. 59, no. 20, pp. 1–3, 2023.",
+    "year": "2023",
+    "first": false,
+    "doi": "10.1049/ell2.12971",
+    "url": "https://doi.org/10.1049/ell2.12971"
+  },
+  {
+    "n": 15,
+    "text": "Baiqiang Zhang, Jie Zhou, Junhao Xie, et al. Weighted likelihood CFAR detection for Weibull background. Digital Signal Processing, vol. 115, Paper No. 103079, 2021.",
+    "year": "2021",
+    "first": false,
+    "doi": "10.1016/j.dsp.2021.103079",
+    "url": "https://doi.org/10.1016/j.dsp.2021.103079"
+  },
+  {
+    "n": 16,
+    "text": "Baiqiang Zhang, Junhao Xie, and Jie Zhou. Slow-time randomly missing data reconstruction for skywave over-the-horizon radar. 2021 CIE International Conference on Radar, pp. 3255–3260, 2021.",
+    "year": "2021",
+    "first": false,
+    "doi": "10.1109/radar53847.2021.10028505",
+    "url": "https://doi.org/10.1109/radar53847.2021.10028505"
+  },
+  {
+    "n": 17,
+    "text": "C. A. Schone et al. (including Jie Zhou), 2025 IEEE International Radar Conference Student Paper Competition. IEEE Aerospace and Electronic Systems Magazine, vol. 41, no. 1, pp. 56–68, 2026.",
+    "year": "2026",
+    "first": false,
+    "doi": "10.1109/maes.2025.3608679",
+    "url": "https://doi.org/10.1109/maes.2025.3608679"
+  }
+]

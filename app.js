@@ -14,11 +14,22 @@ function render(){
  list.replaceChildren();
  if(!selected.length){const p=document.createElement('p');p.className='empty';p.textContent='No papers match these filters.';list.append(p);return;}
  for(const p of selected){
-  const data=splitPaper(p),row=document.createElement('article');row.className='paper';
+  const data=splitPaper(p),row=document.createElement('article');row.className='paper';row.dataset.paperId=String(p.n);
   const y=document.createElement('span');y.className='paper-year';y.textContent=p.year;row.append(y);
-  const body=document.createElement('div'),h=document.createElement('h3');h.textContent=data.title;body.append(h);
+  const body=document.createElement('div'),h=document.createElement('h3');
+  if(p.url){
+   const link=document.createElement('a');
+   link.className='paper-link';link.href=p.url;link.target='_blank';link.rel='noopener noreferrer';
+   link.setAttribute('aria-label',data.title+' — open article in a new tab');
+   link.textContent=data.title;h.append(link);
+  }else{h.textContent=data.title;}
+  body.append(h);
   const authors=document.createElement('p');authors.textContent=data.authors;body.append(authors);
   const journal=document.createElement('p');journal.className='journal';journal.textContent=data.journal;body.append(journal);
+  if(p.link_status==='forthcoming'){
+   const status=document.createElement('span');status.className='paper-status';
+   status.textContent='Accepted · article page forthcoming';body.append(status);
+  }
   if(p.n===8){const award=document.createElement('span');award.className='award';award.textContent='↗ Student Paper Award Finalist';body.append(award);}
   row.append(body);const num=document.createElement('span');num.className='paper-num';num.textContent=String(p.n).padStart(2,'0');row.append(num);list.append(row);
  }
